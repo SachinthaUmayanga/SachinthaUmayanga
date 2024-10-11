@@ -23,9 +23,9 @@ I'm Sachintha, a passionate developer specializing in <strong>Full Stack Develop
 <h3 align="center">💻 What I Do Best:</h3>
 
 <p align="center">
-- **Frontend Magic**: Proficient in building dynamic UIs using **React.js**, **HTML/CSS**, **Bootstrap**, and **JavaScript**. Love making the web more interactive and user-friendly.<br>
-- **Backend Alchemist**: Working with **Flask**, **Node.js**, and **PHP** to handle robust APIs, databases like **MySQL**, and everything in between. 🛠️<br>
-- **Machine Learning**: Utilizing AI and Machine Learning to develop smart systems like the **Canine Skin Detection** project.
+- <strong>Frontend Magic</strong>: Proficient in building dynamic UIs using <strong>React.js</strong>, <strong>HTML/CSS</strong>, <strong>Bootstrap</strong>, and <strong>JavaScript</strong>. Love making the web more interactive and user-friendly.<br>
+- <strong>Backend Alchemist</strong>: Working with <strong>Flask</strong>, <strong>Node.js</strong>, and <strong>PHP</strong> to handle robust APIs, databases like <strong>MySQL</strong>, and everything in between. 🛠️<br>
+- <strong>Machine Learning</strong>: Utilizing AI and Machine Learning to develop smart systems like the <strong>Canine Skin Detection</strong> project.
 </p>
 
 ---
