@@ -1,1 +1,4 @@
-👋 Hi, I'm Sachintha Umayanga! I'm a software developer with a strong focus on building high-quality, scalable applications. My GitHub showcases a variety of projects where I explore and implement technologies such as C#, .NET, and SQL Server. I'm passionate about solving complex problems and creating intuitive user interfaces. My recent projects include a comprehensive car trading system and various data processing tools. Feel free to browse my repositories, contribute, or connect with me for collaboration opportunities!
+# 👾 Gonapinuwala Vithanage Sachintha Umayanga
+### 🧠 Full Stack Developer
+
+### 🚀 Tech Stack: Python, Flask, React, C#, MySQL 🌐
