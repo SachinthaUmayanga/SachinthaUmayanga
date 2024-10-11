@@ -2,3 +2,5 @@
 ### 🧠 Full Stack Developer
 
 ### 🚀 Tech Stack: Python, Flask, React, C#, MySQL 🌐
+
+---
