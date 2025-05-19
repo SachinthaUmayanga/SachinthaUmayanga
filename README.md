@@ -54,17 +54,6 @@ I'm a passionate software developer with expertise in full-stack web development
 
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/SachinthaUmayanga/Project-Advisor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinthaUmayanga&repo=Project-Advisor&theme=tokyonight" alt="Project-Advisor" />
-  </a>
-  <a href="https://github.com/SachinthaUmayanga/Hometute-Web-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinthaUmayanga&repo=Hometute-Web-Application&theme=tokyonight" alt="Hometute-Web-Application" />
-  </a>
-</div>
-
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -101,3 +90,4 @@ I'm a passionate software developer with expertise in full-stack web development
 <div align="center">
   <img src="https://raw.githubusercontent.com/SachinthaUmayanga/SachinthaUmayanga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+
