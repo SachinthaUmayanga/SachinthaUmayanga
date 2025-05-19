@@ -88,7 +88,7 @@ I'm a passionate software developer with expertise in full-stack web development
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SachinthaUmayanga/SachinthaUmayanga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SachinthaUmayanga/SachinthaUmayanga/output/github-contribution-grid-snake-custom.svg" alt="Custom Snake Animation" />
 </div>
 
 
